@@ -1,0 +1,10 @@
+{
+  "name": "tfl-times",
+  "description": "Serves tfl times",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:liamgarrison/tfl_times.git",
+  "author": "Liam Garrison <liamgarrison@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
