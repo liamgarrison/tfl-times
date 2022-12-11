@@ -14,7 +14,7 @@
   "dependencies": {
     "bluebird": "^3.7.1",
     "dotenv-flow": "^3.1.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-route-builder": "git+https://github.com/oliverbrooks/express-route-builder.git",
     "lodash": "^4.17.15",
     "luxon": "^1.21.1",
