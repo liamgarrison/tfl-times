@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "express-route-builder": "git+https://github.com/oliverbrooks/express-route-builder.git",
     "lodash": "^4.17.15",
-    "luxon": "^1.21.1",
+    "luxon": "^2.5.2",
     "morgan": "^1.9.1",
     "node-fetch": "^2.6.0",
     "querystring": "^0.2.0"
